@@ -1,0 +1,87 @@
+#fent{
+  font-family: 'Abril Fatface', cursive;
+  top: 0;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  width: 20%;
+}
+
+#hi{
+  position: absolute;
+  top: 220px;
+  bottom: 1px;
+  left: 400px;
+  font-size: 40px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+#anakin{
+  font-size: 70px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.fullszoveg{
+  max-width: 600px;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left: 400px;
+}
+
+.bekezdes{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.list1{
+  list-style: square;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-bottom: 20px;
+}
+
+.quote{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 100px;
+  background-color: #222;
+  color: blue;
+  width: 500px;
+  height: 100px;
+  font-size: 35px;
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 0;
+  padding-left: 20px;
+}
+
+.quote1{
+  font-family: 'Abril Fatface', cursive;
+  background-color: #222;
+  color: grey;
+  width: 600px;
+  height: 90px;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 0;
+  padding-top: 30px;
+}
+
+.merri{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.merri1{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
